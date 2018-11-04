@@ -4,7 +4,7 @@
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
-Movies and TV Series are an integral part of lives of people all over the world. The themes that they engage in often reflect the social issues of the given time. 
+Movies and TV Series are an integral part of lives of people all over the world. The themes that they engage in often reflect the social issues of the given time. In many cases they are the deciding factor of the film/tv series' popularity instead of its artistic merit. Is it possible to see how well the movie/tv series will be received based on its core themes? We'll try to answer this question using the OpenSubtitles and IMDB databases.
 
 # Research questions
 * Are films/tv series that treat certain themes more likely to become box-office hits? 
