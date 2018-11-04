@@ -21,8 +21,7 @@ Datasets:
 * Words API
 
 # A list of internal milestones up until project milestone 2
-* Until 12.11.2018 - Collect the data and do the aforementioned clean-up and join
-* Until 19.11.2018 - 
+* Until 15.11.2018 - Collect the data and do the aforementioned clean-up and join
 * Until 25.11.2018 - Write the exhaustive plan of what to do for milestone 3
 
 # Questions for TAa
