@@ -1,9 +1,7 @@
 # Title
-### Film and tv series subtitles - evolution over time
+### Social issues in films and tv series and their reception
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
-
 Movies and TV Series are an integral part of lives of people all over the world. The themes that they engage in often reflect the social issues of the given time. In many cases they are the deciding factor of the film/tv series' popularity instead of its artistic merit. Is it possible to see how well the movie/tv series will be received based on its core themes? How big is the 'market' for movies/tv series tackling these social issues, compared to other topics? We'll try to answer this question and others using the OpenSubtitles and IMDB databases. 
 
 # Research questions
@@ -24,5 +22,4 @@ Datasets:
 * Until 15.11.2018 - Collect the data and do the aforementioned clean-up and join
 * Until 25.11.2018 - Write the exhaustive plan of what to do for milestone 3
 
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
