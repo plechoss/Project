@@ -12,7 +12,7 @@ Movies and TV Series are an integral part of lives of people all over the world.
 * How much influence does the film's location have on its success?
 
 # Dataset
-We're going to use the OpenSubtitles dataset and get the additional meta-data like the release date or box-office results from IMDB. Additionally we'll need the Words API for language statistics.  We'll have to filter out punctuation and stop words from the subtitle XML files and match them with the IMDB movie/tv series ids.
+We're going to use the OpenSubtitles dataset and get the additional meta-data like the release date, box-office results and character names from IMDB. Additionally we'll need the Datamuse API for language statistics.  We'll have to filter out punctuation and stop words from the subtitle XML files and match them with the IMDB movie/tv series ids. We'll detect the corresponding themes (therefore e.x. the catholic church) using arrays of words most commonly associated with the keyword.
 
 Datasets:
 * OpenSubtitles
@@ -22,5 +22,8 @@ Datasets:
 # A list of internal milestones up until project milestone 2
 * Until 15.11.2018 - Collect the data and do the aforementioned clean-up and join
 * Until 25.11.2018 - Write the exhaustive plan of what to do for milestone 3
+
+#A list of internal milestones up until project milestone 3
+
 
 # Questions for TAs
