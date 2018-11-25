@@ -20,12 +20,12 @@ Datasets:
 * Datamuse API
 
 # A list of internal milestones up until project milestone 2
-* Until 15.11.2018 - Collect the data and do the aforementioned clean-up and join
+* Until 15.11.2018 - Collect the data and do the aforementioned clean-up
 * Until 25.11.2018 - Write the exhaustive plan of what to do for milestone 3
 
 # A list of internal milestones up until project milestone 3
-* Until 02.12.2018 - 
-* Until 09.12.2018 -
+* Until 02.12.2018 - Decide on 3 big recent social issues to check
+* Until 09.12.2018 - Do the proper calculations on the data and decide on 
 * Until 16.12.2018 - Prepare the full data story
 * Until ~16.01.2018 - Design a beautiful, clean and readable poster
 
