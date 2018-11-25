@@ -25,7 +25,7 @@ Datasets:
 
 # A list of internal milestones up until project milestone 3
 * Until 02.12.2018 - Decide on 3 big recent social issues to check
-* Until 09.12.2018 - Do the proper calculations on the data and decide on 
+* Until 09.12.2018 - Do the proper calculations (theme presence, language complexity, leading character names, most common cities)
 * Until 16.12.2018 - Prepare the full data story
 * Until ~16.01.2018 - Design a beautiful, clean and readable poster
 
