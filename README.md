@@ -16,8 +16,8 @@ We're going to use the OpenSubtitles dataset and get the additional meta-data li
 
 Datasets:
 * OpenSubtitles
-* IMDB API
-* Datamuse API
+* IMDB https://www.imdb.com/interfaces/
+* Datamuse API http://www.datamuse.com/api/)
 
 # A list of internal milestones up until project milestone 2
 * Until 15.11.2018 - Collect the data and do the aforementioned clean-up
