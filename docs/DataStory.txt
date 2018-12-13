@@ -1,0 +1,30 @@
+Title: 
+
+Abstratct
+
+Movies and TV Series have become a central part of our lives all around the world.
+With the rise of Video-on-Demand (VoD) services such as Netflix or Amazon Prime, people are spending more and more time in front of their screens, watching the freshest released episode of their favorite TV series.
+Today, the Internet Movie Database (IMDb) counts nearly 500, 000 movies and 3, 500, 000 TV series episodes, be not at all of them are part of the hall of fame...
+From fiction to documentary, these screenplay address a lot of different topics and often reflect the issues of society at a point in time, but does their success rely on it?
+Does the topic of a movie or TV series defines or at least influence its popularity?
+Can we predict the success of a show based on the themes that it treats?
+This work will try to clarify this question, by first analysing the most common topics that can have been observe over the years, as well as the period they rose and fell; we will then try to analyse the realtionship between these topics and what seem to be the winning bets.
+We will use the OpenSubtitles and IMDb databases to base our research.
+
+Topic extraction
+
+In order to extract the topics treated by a movie/TV series, we decided to base our analysis on the english subtitles: movies that often speaks about police and law have a higher probability to be a detective story talking about crime solving, whereas those that often speak about swords and castles have a higher probability to be medieval stories talking about wars.
+In order to do so, we decided to filter the meaningfull words (by filtering out the stop words, preposition, ponctuation, ...) and then extract the topics of each remaining words, and then aggregate over the words (by counting the number of occurences for each topic).
+We decided to keep only the topics that appeared more than ... times and then keep only the ... most frequent topics for each movie/TV Series.
+
+Chronology
+<evolution of number of shows/movies over the years>
+
+Most common topics
+<histogram of most common topics>
+<evolution of the top 3 topics over the years>
+
+Relationship between topics
+<graph of most 20 topics coocurrences>
+
+Conclusion
