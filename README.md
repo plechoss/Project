@@ -18,4 +18,5 @@ Datasets:
 
 # Contributions
 Michal Pleskowicz: conceptualization of the project, data collection, data processing, data story writing
+
 Vincent Coriou: data collection, data processing, data story writing
