@@ -17,6 +17,6 @@ Datasets:
 * IMDB https://www.imdb.com/interfaces/
 
 # Contributions
-Michal Pleskowicz: conceptualization of the project, data collection, data processing, data story writing
+Michal Pleskowicz: conceptualization of the project, data collection, data processing, data story writing, final presentation
 
 Vincent Coriou: data collection, data processing, data story writing, data vizualization
