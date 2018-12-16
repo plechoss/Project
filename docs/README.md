@@ -17,17 +17,22 @@ The movie industry has always been present throughout the globe, with more than 
 Today, the Internet Movie Database (IMDb) counts nearly 500, 000 movies and 3, 500, 000 TV series episodes, which corresponds to more than ... hours of content.
 ![Evolution of the number of movies throughout the years](img/number_of_movies.png)
 ![Evolution of the yearly production cost of movies throughout the years](img/production_costs.png)
-![Evolution of the average production cost of movies throughout the years](img/placeholder.png)
+![Evolution of the average production cost of movies throughout the years](img/average_production_costs.png)
 We can see on the graph above that over the last couple decades, the movie industry has exploded, with the number of movies being made being multiplied by a factor ... (... movies produced in 1998 against .... movies produced in 2018) and the average production cost being multiplied by a factor  ...  (... $ in 1998 against ... $ in 2018), resulting in the yearly production cost being multiplied by a factor ... (... $ in 1998 against ... $ in 2018)!
 This increases clearly show the how much money is invested into movies every year, but what about the gross income?
 ![Evolution of the yearly gross of movies throughout the years](img/box_office.png)
 The graph shown above clearly indicates that the movie industry generates billion of dollars every year (note that these correspond to the total money made through ticket selling, not the amount given back to the producers), all around the world.
 These numbers definitely show the importance of the seventh art in our culture, and the really central place it has in today's society.
 
-### The rise of a TV series
+### The rise of TV series
 
 We just show how the movie industry imposed itself over the past decades, but what about the TV Series?
-It appears that the TV Series are trickiest to analyse, because the TV golden age is really new: 
+It appears that the TV Series are trickiest to analyse, because the TV golden age is really new.
+
+![Evolution of the number of TV Series trhoughout the years](img/number_of_series.png)
+
+As we can see on the graph above, the number of TV series really rose in the past 20 years. The budget for TV series remains lower than the ones for movies, but still is impressive for some: Game of Thrones, one of the most watched show in the world (which attracted this year more than [10 millions viewer](https://tvseriesfinale.com/tv-show/game-of-thrones-season-seven-ratings/) on average during its seventh season), has reached an unprecented amount of [15 million $ per episodes](https://winteriscoming.net/2017/09/27/budget-episode-game-thrones-season-8-really-really-big/) for next year's eighth season (bringing the season's total budget to nearly 100 million $).
+To show the 
 
 ## Topics analysis
 
